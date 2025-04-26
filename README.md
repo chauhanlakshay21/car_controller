@@ -1,6 +1,6 @@
 # Car Controller App 🚗
 
-A Flutter application to control and monitor car functionalities remotely via Bluetooth or Wi-Fi.
+A Flutter UI application to control and monitor car functionalities remotely via Bluetooth or Wi-Fi.
 
 ![App Preview](assets/images/car_project.png)
 
@@ -8,12 +8,6 @@ A Flutter application to control and monitor car functionalities remotely via Bl
 - Start/stop the engine
 - Lock/unlock doors
 - Monitor car status
-- Real-time updates
-
-## Technologies
-- Flutter
-- Firebase
-- Bluetooth/Wi-Fi communication
 
 ## Setup
 1. Clone the repository
